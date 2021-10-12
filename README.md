@@ -1,6 +1,6 @@
 # Medical Search Engine & Appointment System in PHP Laravel</h1>
 
-This a project based on Laravel 8 and compatible with PHP 8. Here, Users can search for doctors by using name, designation, disease name and symtoms. This project may help the beginners to understand some basics of Laravel as well as unlock some new ideas.
+This a project based on Laravel 8 and compatible with PHP 8. Here, Users can search for doctors by using name, designation, disease name and symptoms. This project may help the beginners to understand some basics of Laravel as well as unlock some new ideas.
 
 ## About Medical Search Engine & Appointment System
 
